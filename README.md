@@ -1,5 +1,6 @@
-# despesa-de-produtos
+# despesa de produtos
 despesas de produtos
+<<<<<<< HEAD
 # Indice
 
  
@@ -71,3 +72,6 @@ tem a funçao de clique sobre a linha que destaca a região do mouse.
 
 ## Autores
  Luamy Alves Gama
+=======
+Criamos uma tabela de despesas que tinhamos na nossa casa, usamos HTML e CSS, com o objetivo de saber oque gastamos no mes, para ter uma noção de como é pagar contas, como sera nossa vida futuramente, com contas a pagar.
+>>>>>>> a19b0540456c74d17088ccae8df22fb1861ad5a1
