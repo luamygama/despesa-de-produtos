@@ -3,7 +3,7 @@
 
 ## Indice
 
-* [Projeto escrita do README](#projeto-escrita-do-readme)
+
 * [Descrição](#descri%C3%A7%C3%A3o)
 * [Introduçao](##introdu%C3%A7ao)
 * [Funcionalidades](#funcionalidades)
@@ -11,10 +11,6 @@
 * [Fontes ultilizadas](#fontes-ultilizadas)
 * [Autores](#autores)
 
-
-## Projeto escrita do README
-
- 
 
 ## Descrição
 esse é um projeto de font-end ultilizando html + css, ele foi desenvolvido durante as aulas de fundamentos da web, aprendemos a criar uma tabela que pode ser ultilizada tanto para diversas atividades, sendo elas pessoais para nosso dia a dia, e tambem no trabalho, com o objetivo de saber oque gastamos no mes, para ter uma noção de como é pagar contas, como sera nossa vida futuramente, com contas a pagar.
