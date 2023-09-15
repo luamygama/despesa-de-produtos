@@ -1,36 +1,18 @@
-# despesa de produtos
-despesas de produtos
-<<<<<<< HEAD
-# Indice
 
- 
+# tabela de despesas
 
-*[Projeto escrita do README](#projeto-escrita-do-readme)
-*[Descrição](#descri%C3%A7%C3%A3o)
-*[Introduçao](##introdu%C3%A7ao)
-*[Funcionalidades](#funcionalidades)
-*[Tecnologia ultilizadas](#tecnologia-ultilizadas)
-*[Fontes ultilizadas](#fontes-ultilizadas)
-*[Autores](#autores)
-# Projeto escrita do README
+## Indice
 
- 
-
-## Descrição
-# Indice
-
- 
-
-*[Projeto escrita do README](#projeto-escrita-do-readme)
-*[Descrição](#descri%C3%A7%C3%A3o)
-*[Introduçao](##introdu%C3%A7ao)
-*[Funcionalidades](#funcionalidades)
-*[Tecnologia ultilizadas](#tecnologia-ultilizadas)
-*[Fontes ultilizadas](#fontes-ultilizadas)
-*[Autores](#autores)
+* [Projeto escrita do README](#projeto-escrita-do-readme)
+* [Descrição](#descri%C3%A7%C3%A3o)
+* [Introduçao](##introdu%C3%A7ao)
+* [Funcionalidades](#funcionalidades)
+* [Tecnologia ultilizadas](#tecnologia-ultilizadas)
+* [Fontes ultilizadas](#fontes-ultilizadas)
+* [Autores](#autores)
 
 
-# Projeto escrita do README
+## Projeto escrita do README
 
  
 
